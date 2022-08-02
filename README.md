@@ -1,7 +1,7 @@
 # Bingo App
 ---
 ## Netlify (Demo URL)
-https://lucky-rugelach-d980ad.netlify.app/
+https://bingo-test-site.netlify.app/
 
 ## General Information
 
